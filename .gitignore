@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data files
+data/*.csv
+
+# OS / IDE noise
+.vscode/
+.idea/
+.DS_Store
